@@ -1,10 +1,7 @@
 # CHECKPOINT 01 – Data Science e Machine Learning (Python & Orange)
 
-Repositório preparado para a atividade da disciplina de **IoT / Data Science**.
-
-> **Como entregar**: faça o *fork* ou baixe este conteúdo, rode localmente, **suba para seu GitHub** e entregue **apenas o link do repositório** conforme instruções do professor.
-
----
+Repositório preparado para a atividade "Checkpoint 01: Análise de Dados de Consumidores de Energia" da disciplina de **DISRUPTIVE ARCHITECTURES - IOT, IOB And GENERATIVE**.
+Proposta pelo professor ANDRÉ TRITIACK
 
 ## 📦 Estrutura
 ```
@@ -70,8 +67,11 @@ Onde aplicável, métricas e gráficos são gerados automaticamente.
 
 ---
 
-## 📑 Créditos e referência dos enunciados
-Os exercícios foram transcritos a partir do material da disciplina (CP001_V2.pdf) e do enunciado do professor.
-Data de preparo: 2025-09-02.
+## Devs
 
-Boa prática! ✨
+- Desenvolvido por:
+Pedro Henrique Jorge de Paula 
+RM:558833
+
+
+Obrigado! ✨
